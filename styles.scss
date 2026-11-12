@@ -1,0 +1,79 @@
+/*-- scss:defaults --*/
+// Colors and fonts match the business card
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,600&display=swap');
+
+$navy: #1f3a5f;
+$teal: #2a7f8a;
+
+$body-color: #1a1d23;
+$link-color: $teal;
+$primary: $navy;
+$navbar-bg: $navy;
+$navbar-fg: #ffffff;
+$font-family-sans-serif: "Inter", system-ui, sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, serif;
+$headings-color: $navy;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+body {
+  line-height: 1.6;
+}
+
+// Section headings on the CV page
+.cv h2 {
+  font-size: 1.15rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border-bottom: 2px solid $teal;
+  padding-bottom: 0.3rem;
+  margin-top: 2.25rem;
+}
+
+// One entry: title on the left, dates on the right (stacks on phones)
+.cv-entry {
+  margin-top: 1rem;
+}
+
+.cv-entry p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0 1rem;
+  margin: 0;
+}
+
+.cv-entry .role {
+  font-weight: 600;
+}
+
+.cv-entry .dates {
+  color: #4a5160;
+  white-space: nowrap;
+}
+
+.cv .org {
+  color: #4a5160;
+  margin-bottom: 0.25rem;
+}
+
+.cv ul {
+  margin-top: 0.25rem;
+}
+
+.cv .refs p {
+  padding-left: 1.5rem;
+  text-indent: -1.5rem;
+}
+
+.btn-cv {
+  background: $teal;
+  border-color: $teal;
+  color: #ffffff;
+}
+
+.btn-cv:hover {
+  background: $navy;
+  border-color: $navy;
+  color: #ffffff;
+}

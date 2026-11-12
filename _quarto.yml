@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+  # Copied as-is into the built site
+  resources:
+    - CNAME
+    - files/
+
+website:
+  title: "Dalis Nilson"
+  site-url: "https://dalisnilson.com"
+  description: "Data scientist working on health and well-being research."
+  page-navigation: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dalisnilson
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:dalisnilson@gmail.com
+        aria-label: Email
+  page-footer:
+    center: "© 2026 Dalis Nilson"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,21 @@
+---
+title: "Dalis Nilson"
+subtitle: "MS Candidate in Data Science, Boston College · Research Assistant, Human Flourishing Program, Harvard University"
+page-layout: article
+title-block-banner: false
+---
+
+I am a data scientist with a background in medicine. I apply statistical modeling to health and well-being research.
+
+At Harvard's Human Flourishing Program, I conduct the South Africa site analysis of the REACH Forgiveness randomized controlled trial. This work includes mixed-effects models, multiple imputation, generalized estimating equations, and a reproducible Python pipeline translated from R. At Boston College, I build Python workflows to analyze how children and educators around the world use ScratchJr.
+
+Before data science, I studied medicine at the University of South Florida and later redesigned clinical skills curricula for hybrid and virtual instruction. That clinical training shapes how I approach data. I care about measurement quality, careful evaluation, and results that hold up in practice.
+
+I am looking for applied data science and machine learning roles, especially in health.
+
+[View my CV](cv.qmd){.btn .btn-cv .me-2}
+[Download PDF](files/Dalis_Nilson_CV.pdf){.btn .btn-outline-secondary}
+
+---
+
+**Contact:** [dalisnilson@gmail.com](mailto:dalisnilson@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dalisnilson) · Austin, TX

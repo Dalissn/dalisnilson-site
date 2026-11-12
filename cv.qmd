@@ -1,0 +1,179 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Dalis S. Nilson · Formerly published as Seung-eun Jang and Dalis Seungeun Kim"
+page-layout: article
+---
+
+<!-- When you update the CV, replace files/Dalis_Nilson_CV.pdf with the new PDF (keep the same file name) and update this page to match. -->
+
+[Download PDF](files/Dalis_Nilson_CV.pdf){.btn .btn-cv}
+
+:::::: {.cv}
+
+## Education
+
+::: {.cv-entry}
+[M.S. in Data Science]{.role}
+[2025–2027 (expected)]{.dates}
+:::
+::: {.org}
+Boston College, Lynch School of Education and Human Development
+:::
+Coursework: Applied AI and Machine Learning, Multivariate Statistical Analysis, Data Visualization
+
+::: {.cv-entry}
+[Medical Student]{.role}
+[2014–2019]{.dates}
+:::
+::: {.org}
+University of South Florida Morsani College of Medicine, Tampa
+:::
+
+::: {.cv-entry}
+[B.S. in Biomedical Sciences, magna cum laude]{.role}
+[2008–2012]{.dates}
+:::
+::: {.org}
+University of South Florida Honors College, Tampa
+:::
+Minors: Public Health, Biomedical Engineering, Applications of Physics to Biology and Medicine
+
+## Methods and Technical Skills
+
+**Programming and tools:** Python (pandas, Matplotlib, Seaborn, Streamlit), R (reading and translating analysis code), Jupyter, Salesforce
+
+**Statistical methods:** mixed-effects models, generalized estimating equations, OLS with robust standard errors, multiple imputation, multiple-comparison correction, binary and multinomial logistic regression, principal component analysis, cluster analysis
+
+**Measurement:** multi-item scale scoring, variable crosswalks across data dictionaries, cross-language instrument and program adaptation
+
+**Languages:** English, Korean (native/bilingual)
+
+## Research and Data Experience
+
+::: {.cv-entry}
+[Research Assistant]{.role}
+[Aug 2026–Present]{.dates}
+:::
+::: {.org}
+Human Flourishing Program, Harvard University
+:::
+
+::: {.cv-entry}
+[Summer Research Intern]{.role}
+[Jun–Aug 2026]{.dates}
+:::
+::: {.org}
+Lee Kum Sheung Center for Health and Happiness, Harvard T.H. Chan School of Public Health<br>
+Mentors: Richard Cowden PhD, Tyler VanderWeele PhD
+:::
+
+- Conduct the South Africa site analysis of the REACH Forgiveness randomized controlled trial (RCT), a multisite intervention study of forgiveness and well-being.
+- Translate the Indonesia site's R analysis pipeline (about 4,000 lines) into documented, reproducible Python.
+- Build the South Africa analytic dataset, including a variable crosswalk against the site data dictionary, 17 multi-item scale composites, and a 2,745-row longitudinal panel.
+- Fit random-intercept mixed-effects models for all preregistered outcomes with Holm-Bonferroni correction.
+- Implement multiple imputation and generalized estimating equations (GEE), then OLS with robust standard errors under documented protocol deviations from the preregistration.
+- Model attrition to assess missing-data assumptions and workbook engagement as a predictor of forgiveness outcomes.
+- Write the results and discussion sections of the South Africa site manuscript.
+
+::: {.cv-entry}
+[Graduate Research Assistant]{.role}
+[2025–Present]{.dates}
+:::
+::: {.org}
+DevTech Research Group, Boston College<br>
+Mentor: Marina Bers PhD
+:::
+
+- Build Python (pandas) workflows to clean and structure large-scale Google Analytics data on how children and educators engage with ScratchJr across global contexts.
+- Analyze and visualize longitudinal engagement trends (Matplotlib, Seaborn) to distinguish retention and usage patterns that inform decisions on educational access and program expansion.
+- Synthesize analytical findings from visualizations into reports that inform strategies for expanding the ScratchJr program's global reach.
+- Serve as liaison with Gyeongin National University of Education, supporting the Korean translation and cultural adaptation of ScratchJr.
+
+::: {.cv-entry}
+[Graduate Research Assistant]{.role}
+[2025–Present]{.dates}
+:::
+::: {.org}
+Transformative Education Lab, Boston College<br>
+Mentor: Stanton Wortham PhD
+:::
+
+- Support faculty-led mixed-methods studies on how educational design shapes human development and learning outcomes, including data organization and analysis.
+
+### Earlier Health and Biomedical Research
+
+::: {.cv-entry}
+[Research Team Member]{.role}
+[2019]{.dates}
+:::
+::: {.org}
+CWE Bolivia Clinic / Brandon Regional Health
+:::
+
+- Collected, transcribed, and analyzed data on clinic flow and patient access to follow-up care in Santa Cruz de la Sierra, Bolivia. Resulted in an award-winning poster.
+
+::: {.cv-entry}
+[Visiting Student Researcher]{.role}
+[2015]{.dates}
+:::
+::: {.org}
+Seoul National University College of Medicine, South Korea
+:::
+
+- Synthesized international epidemiological data to investigate a 15-fold disparity in gastric cancer incidence between East Asian and Western populations.
+
+::: {.cv-entry}
+[Research Assistant, Infectious Disease and Internal Medicine]{.role}
+[2013]{.dates}
+:::
+::: {.org}
+USF / Tampa General Hospital
+:::
+
+- Conducted a literature review on cervical HPV infection in Indian women, focused on epidemiology and disparities. Resulted in a coauthored publication.
+
+::: {.cv-entry}
+[Honors Thesis]{.role}
+[2011–2012]{.dates}
+:::
+::: {.org}
+H. Lee Moffitt Cancer Center and Research Institute
+:::
+
+- Analyzed the association between body mass index and biochemical recurrence after radical prostatectomy, including study design, variable computation, and statistical analysis.
+
+## Additional Experience
+
+::: {.cv-entry}
+[Curriculum Developer / Staff Instructor]{.role}
+[2020–2022]{.dates}
+:::
+::: {.org}
+USF Morsani College of Medicine, Experiential Learning and Simulation
+:::
+
+- Led rapid redesign of medical curricula during COVID-19, moving core instruction from fully in-person to hybrid live and virtual formats.
+- Translated in-person clinical education into structured virtual workflows with standardized inputs (standardized patient scripts, grading rubrics, proctor instructions).
+- Managed scheduling, resource allocation, and logistics in Salesforce for Entrustable Professional Activity courses, Clinical Performance Examinations, OSCEs, and clinical skills labs.
+
+## Publications
+
+::: {.refs}
+Nasr M, Cranston-Gingras A, **Jang S**. Friendship experiences of participants in a university-based transition program. *International Journal of Whole Schooling*. 2015;11(2):1-15.
+
+Menezes LJ, **Jang SE**, Ross DJ, Glaser AD, Varghese R. Cervical HPV infection in Indian women: Screening and immunization as preventive strategies. *MGM Journal of Medical Sciences*. 2014;1(2):75-85.
+:::
+
+## Presentations
+
+::: {.refs}
+Kim D, Borowiec K, Yatsu K, Cho J, Senft M, **Nilson D**, Lee J, Reeves B, Ewing L. Reflecting through crafting: Chilean preservice language teachers' experiences in a university makerspace. Poster session, American Educational Research Association Annual Meeting, Toronto, April 2027. Accepted.
+
+Kim D, Borowiec K, Yatsu DK, Cho J, Senft M, **Nilson D**, Lee J, Reeves B, Ewing L. Reflecting through crafting: Chilean preservice English teachers in a university makerspace. Paper presentation, American Association for Applied Linguistics Annual Conference, Atlanta, March 2027. Accepted.
+
+**Nilson DS**. Forgiveness as a scalable intervention: The South Africa REACH trial. Summer Internship Final Presentation, Lee Kum Sheung Center for Health and Happiness, Harvard T.H. Chan School of Public Health, Boston, 2026.
+
+Rains M, Yukhimchuk D, Longbottom B, Cook E, Nilson J, Standlick A, **Kim D**, et al. Global health practice challenges in Bolivia: Assessment of patients' access to follow-up care. HCA West Florida Graduate Medical Education Consortium 3rd Annual Research Poster Exhibition, 2019. Second Place Inter-Professional Award.
+:::
+
+::::::
