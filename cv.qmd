@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Dalis S. Nilson · Formerly published as Seung-eun Jang and Dalis Seungeun Kim"
+subtitle: "Dalis S. Nilson"
+description: "Formerly published as Seung-eun Jang and Dalis Seungeun Kim"
 page-layout: article
 ---
 
